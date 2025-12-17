@@ -1,0 +1,33 @@
+# Executables (Windows/Linux/Mac)
+*.exe
+*.out
+*.app
+main.exe
+
+# Object files & Intermediate
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Build & Output Directories
+build/
+bin/
+dist/
+x64/
+Debug/
+Release/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
